@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sarah 3D AI Assistant</string>
+    <string name="accessibility_label">Sarah Automation</string>
+    <string name="accessibility_desc">Lets Sarah read the screen, tap, scroll, type and open apps when you ask her to.</string>
+</resources>
