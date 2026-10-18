@@ -1,0 +1,7 @@
+# Copy to local.properties (never commit it) and fill in:
+sdk.dir=/path/to/Android/sdk
+GEMINI_API_KEY=your_gemini_key
+GEMINI_MODEL=gemini-2.0-flash
+ELEVEN_API_KEY=your_elevenlabs_key
+# Pick a multilingual voice from your ElevenLabs voice library
+ELEVEN_VOICE_ID=your_voice_id
